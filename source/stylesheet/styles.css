@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    font-size: 20px;
+}
+
+body {
+    font-size: 16px;
+    font-style: normal;
+    max-width: 1024px;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+h2 {
+    font-size: 24px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.code-background {
+    background-color: rgb(204, 197, 197);
+}
+
+.code {
+    font-size: 17px;
+    font-style: italic;
+    margin-left: 24px;
+}
+
+p {
+    text-align: : left;
+    font-style: italic;
+}
